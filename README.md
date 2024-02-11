@@ -1,1 +1,1 @@
-# Code and images of the Image Processing Recipes in MATLAB book
+# Images and listings of the Image Processing Recipes in MATLAB book
