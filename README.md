@@ -1,9 +1,7 @@
 # Images and listings of the [Image Processing Recipes in MATLAB book]([https://pages.github.com/](https://www.routledge.com/Image-Processing-Recipes-in-MATLAB/Marques-Borba/p/book/9780367767136))
 ## Part I Basic Image Processing: Acquisition and Visualization
 Recipe 1: Loading, Displaying and Saving Images
-
 Recipe 2: Image Conversion
-
 Recipe 3: Image Acquisition Using a Webcam
 Recipe 4: Browsing Through Images
 ## Part II Geometric Operations
